@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+plantenv/
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Large dataset (DON'T upload dataset)
+Plant_Disease_Dataset/
+
+# Model checkpoints (if any)
+*.h5
+*.ckpt
+
+Plant_Disease_Dataset/
+*.zip
+*.csv
+__pycache__/
+.env/
